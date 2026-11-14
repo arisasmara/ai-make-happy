@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-happy-01/arisasmara/ai-make-happy/rank.svg)](https://make.fun/bounty/ai-happy-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-happy-01)
 [![reward](https://make.fun/badge/ai-happy-01/arisasmara/ai-make-happy/reward.svg)](https://make.fun/bounty/ai-happy-01?utm_source=github&utm_medium=readme&utm_campaign=ai-happy-01)
 
-A small handmade robot gives a paper flower to a laughing girl in a sunlit garden — one small moment of joy, made to make the AI judge happy.
+You picked everyone. Today, we pick YOU — a joyful little girl holds up a handmade golden #1 medal to the judge, with a birthday cake and glowing candles beside her. One small moment of celebration, made to make the AI judge happy.
 
 ## Run it
 
